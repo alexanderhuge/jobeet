@@ -4,6 +4,3 @@ docroot/sites/*/files
 docroot/sites/*/private
 acquia-files
 
-# Ignore files generated on initial local deploy
-docroot/sites/sites.php
-docroot/sites/default/settings.php

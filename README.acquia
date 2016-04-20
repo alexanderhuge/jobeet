@@ -1,3 +1,16 @@
+---------------------------------------------------------------------------------------------------------
+HUGE SECTION
+---------------------------------------------------------------------------------------------------------
+
+This repo has been deployed as a github repo, so from now on for workflow development checkout github
+repository on https://github.com/alexanderhuge/jobeet as origin an then add remote acquia cloud as 
+"git remote add ac jobeet@svn-5323.devcloud.hosting.acquia.com:jobeet.git", this way we can handle pull 
+requests and github advantages.
+
+---------------------------------------------------------------------------------------------------------
+ACQUIA SECTION
+---------------------------------------------------------------------------------------------------------
+
 Welcome to your Acquia Cloud repository.
 
 Commit your website's code to Acquia Cloud using Git or SVN. Acquia Cloud
